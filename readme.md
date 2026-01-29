@@ -203,6 +203,11 @@ Project ini dibuat untuk tujuan pembelajaran.
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/ced9b942-baf7-4371-b11d-8a0f2da1f562
+
+
+
 ## 👨‍💻 Author
 
 Dibuat sebagai project pembelajaran untuk pemula yang berpindah dari web development ke Android development.
