@@ -33,7 +33,7 @@ Aplikasi Android sederhana untuk melacak keuangan pribadi Anda. Dibangun dengan 
 
 ```bash
 git clone <repository-url>
-cd EXP02
+cd Financial-Tracking-Android-App
 ```
 
 ### 2. Buka di Android Studio
