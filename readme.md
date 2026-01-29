@@ -1,6 +1,6 @@
 # 📱 Personal Finance Tracker
 
-Aplikasi Android sederhana untuk melacak keuangan pribadi Anda. Dibangun dengan Kotlin menggunakan Android Studio, aplikasi ini memungkinkan Anda mencatat transaksi keuangan dan melihat total saldo secara real-time.
+Aplikasi Android sederhana untuk melacak keuangan pribadi. Dibangun dengan Kotlin menggunakan Android Studio, aplikasi ini memungkinkan Anda mencatat transaksi keuangan dan melihat total saldo secara real-time. 
 
 ## ✨ Fitur
 
