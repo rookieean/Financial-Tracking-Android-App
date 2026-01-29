@@ -1,0 +1,4 @@
+#Thu Jan 29 12:25:16 WIB 2026
+base.0=D\:\\CODE\\EXPERIMENT\\KOTLIN\\EXP02\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

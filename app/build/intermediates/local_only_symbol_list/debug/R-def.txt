@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher
+drawable ic_launcher_foreground
+id btnAdd
+id cardBalance
+id cardForm
+id etAmount
+id etName
+id rootLayout
+id rvTransactions
+id tvBalanceAmount
+id tvBalanceLabel
+id tvHistoryLabel
+id tvItemAmount
+id tvItemName
+layout activity_main
+layout item_transaction
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.App
